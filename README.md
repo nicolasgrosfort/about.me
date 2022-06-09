@@ -1,7 +1,7 @@
 ## hey.
 Hi, i'm nicolas, a playful developer disguised as a brutalist designer; or maybe it’s the opposite? i love create things, make coffee, solve boulder problems and play with my dog.
 
-Creative developer @ nclgf.xyz  
+Creative developer @ tekh.studio  
 Co-founder @ aeks.studio  
 Research, design & development  
 Geneva - [CH]  
