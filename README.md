@@ -5,7 +5,6 @@ Creative developer @ tekh.studio
 Co-founder @ aeks.studio  
 
 www.tekh.studio
-
 www.aeks.studio
 
 Geneva - [CH]  
