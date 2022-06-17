@@ -1,9 +1,12 @@
 ## hey.
-Hi, i'm nicolas, a playful developer disguised as a brutalist designer; or maybe it’s the opposite? i love create things, make coffee, solve boulder problems and play with my dog.
+I'm a creative developer based in Geneva that builds interactive things in the physical and digital world, like spaces, tools, or experiences, by working code, electronic and materials together.
 
 Creative developer @ tekh.studio  
 Co-founder @ aeks.studio  
-Research, design & development  
+
+www.tekh.studio
+www.aeks.studio
+
 Geneva - [CH]  
 
 <!---
