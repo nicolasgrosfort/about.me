@@ -1,11 +1,8 @@
 ## hey.
 I'm a creative developer based in Geneva that builds interactive things in the physical and digital world, like spaces, tools, or experiences, by working code, electronic and materials together.
 
-Creative developer @ tekh.studio  
-Co-founder @ aeks.studio  
-
-www.tekh.studio
-www.aeks.studio
+Creative developer @ www.tekh.studio
+Co-founder @ www.aeks.studio
 
 Geneva - [CH]  
 
