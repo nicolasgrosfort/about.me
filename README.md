@@ -1,5 +1,5 @@
 ## hey.
-I'm a creative developer based in Geneva that builds interactive things in the physical and digital world, like spaces, tools, or experiences, by working code, electronic and materials together.
+I'm a full stack creative developer based in Geneva that builds interactive things in the physical and digital world, like spaces, tools, or experiences, by working code, electronic and materials together.
 
 Creative developer @ www.tekh.studio
 Co-founder @ www.aeks.studio
